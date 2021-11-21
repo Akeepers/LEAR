@@ -1,0 +1,33 @@
+An Acquit Event occurs whenever a trial ends but fails to produce a conviction.
+An Appeal Event occurs whenever the decision of a court is taken to a higher court for review.
+A Arrest-Jail Event occurs whenever the movement of a PERSON is constrained by a state actor (a GPE, its ORGANIZATION subparts, or its PERSON representatives). An ARREST Event occurs whenever a state actor (GPE, ORGANIZATION  subpart, or PERSON representative) takes official custody of a PERSON Entity  for the purposes of evaluating legal liability in a criminal activity.
+An Attack Event is defined as a violent physical act causing harm or damage.
+A Be-Born Event occurs whenever a PERSON Entity is given birth to.
+An INDICT Event occurs whenever a state actor (GPE, ORG subpart of a GPE or PERSON agent of a GPE) takes official legal action to follow up on an accusation.
+A Convict Event occurs whenever a TRY Event ends with a successful  prosecution of the DEFENDANT-ARG. In other words, a PERSON,  ORGANIZATION or GPE Entity is convicted whenever that Entity has been found  guilty of a CRIME.
+A Declare-Bankruptcy Event will occur whenever an Entity officially requests legal protection from debt collection due to an extremely negative balance sheet.
+A Demonstrate Event occurs whenever a large number of people come together in a public area to protest or demand some sort of official action.
+A Die Event occurs whenever the life of a PERSON Entity ends.
+A Divorce Event occurs whenever two people are officially divorced under the legal definition of divorce.
+An Elect Event occurs whenever a candidate wins an election designed to determine the PERSON argument of a START-POSITION Event.
+An End-Org Event occurs whenever an ORGANIZATION ceases to exist (in other words ‘goes out of business’).
+An End-Position Event occurs whenever a PERSON Entity stops working for (or changes offices within) an ORGANIZATION or GPE.
+An Execute Event occurs whenever the life of a PERSON is taken by a state actor (a GPE, its ORGANIZATION subparts, or PERSON representatives).
+An Extradite Event occurs whenever a PERSON is sent by a state actor from one PLACE (normally the GPE associated with the state actor, but sometimes a FACILITY under its control) to another place (LOCATION, GPE or FACILITY) for the purposes of legal proceedings there.
+A Fine Event takes place whenever a state actor issues a financial punishment to a GPE, PERSON or ORGANIZATION Entity, typically as a result of court proceedings.
+An Injure Event occurs whenever a PERSON Entity experiences physical harm.
+Marry Events are official Events, where two people are married under the legal definition.
+A Meet Event occurs whenever two or more Entities come together at a single location and interact with one another face-to-face.
+A Merge-Org Event occurs whenever two or more ORGANIZATION Entities come together to form a new ORGANIZATION Entity. T
+A Nominate Event occurs whenever a PERSON is proposed for a STARTPOSITION Event by the appropriate PERSON, through official channels.
+A Pardon Event occurs whenever a head-of-state or their appointed representative lifts a sentence imposed by the judiciary.
+A Phone-Write Event occurs when two or more people directly engage in discussion which does not take place ‘face-to-face’.
+A Release-ParoleLEASE Event occurs whenever a state actor (GPE, ORGANIZATION subpart, or PERSON representative) ends its custody of a PERSON Entity. This can be because the sentence has ended, because the charges are dropped, or because parole has been granted.
+A Sentence Event takes place whenever the punishment (particularly incarceration) for the DEFENDANT-ARG of a TRY Event is issued by a state actor (a GPE, an ORGANIZATION subpart or a PERSON representing them).
+A Start-Org Event occurs whenever a new ORGANIZATION is created.
+A Start-Position Event occurs whenever a PERSON Entity begins working for (or changes offices within) an ORGANIZATION or GPE.
+A Sue Event occurs whenever a court proceeding has been initiated for the purposes of determining the liability of a PERSON, ORGANIZATION or GPE accused of committing a crime or neglecting a commitment.
+Transfer-Money Events refer to the giving, receiving, borrowing, or lending money when it is not in the context of purchasing something.
+Transfer-Ownership Events refer to the buying, selling, loaning, borrowing, giving, or receiving of artifacts or organizations.
+A Transport Event occurs whenever an ARTIFACT (WEAPON or VEHICLE) or a PERSON is moved from one PLACE (GPE, FACILITY, LOCATION) to another.
+A HEARING Event occurs whenever a state actor (GPE, ORGANIZATION subpart, or PERSON representative) officially gathers to discuss some criminal legal matter. 
