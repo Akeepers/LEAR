@@ -14,6 +14,7 @@ See below for an overview of the model architecture:
 * tokenizers
 
 ## Data
+Note: The `thunlp` has updated the repo HMEAE recently, which causing the mismatch of data. **Make sure you use the earlier version for ED tas**k. 
 
 | Task            | Url                                                  | Rreprocess scripts |
 |-----------------|------------------------------------------------------|--------------------|
