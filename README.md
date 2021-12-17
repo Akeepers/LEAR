@@ -22,7 +22,7 @@ Note: The `thunlp` has updated the repo HMEAE recently, which causing the mismat
 | Event Detection |  [ACE 2005](https://catalog.ldc.upenn.edu/LDC2006T06)                                              |      [HMEAE](https://github.com/thunlp/HMEAE)               | 
 
 ## Train
-The detail hyper-parameter setting is listed in our [paper](https://arxiv.org/pdf/2111.00884.pdf).
+The details of hyper-parameter setting is listed in our [paper](https://arxiv.org/pdf/2111.00884.pdf) - A.3.
 
 * For NER task, run `run_ner.py`.
 * For Event Detection task, run `run_trigger_extraction.py`
