@@ -612,7 +612,7 @@ def main(args):
     args.device = torch.device("cuda" if torch.cuda.is_available() and args.use_cuda else "cpu")
     args.n_gpu = torch.cuda.device_count()
 
-    tokenizer = BertTokenizerFast.from_pretrained(args.model_name_or_path, do_lower_case=args.do_lower_case)
+    tokenizer = BertTokenizerFast.from_pretrained(args.model_name_or_path, do_lower_case=args.do_lower_case, use_auth_token='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')
     processor = NerDataProcessor(args, tokenizer)
     args.first_label_num = processor.get_class_num()
     # Set seed
